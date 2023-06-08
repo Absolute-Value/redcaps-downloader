@@ -1,6 +1,6 @@
 # RedCaps Downloader
 
-This repository is copy of (redcaps-dataset/redcaps-downloader)[https://github.com/redcaps-dataset/redcaps-downloader]
+This repository is copy of [redcaps-dataset/redcaps-downloader](https://github.com/redcaps-dataset/redcaps-downloader)
 
 This repository provides the official command-line tool for downloading and extending the [RedCaps dataset](https://openreview.net/forum?id=VjJxBi1p9zh).
 Users can seamlessly download images of officially released annotations as well as download more image-text data from any subreddit over an arbitrary time-span.
